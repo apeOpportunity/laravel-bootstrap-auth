@@ -1,0 +1,21 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+
+
+
+body {
+    background-image: url('/storage/app/public/download.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center bottom;
+    background-position-y: center;
+    min-height: 100%;
+}
+    
